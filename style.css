@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+}
+.logo>img{
+    width: 30%;
+    padding-right: 30%;
+}
+.logo>a{
+    width: 50px;
+    height: 50px;
+}
+.phan11{
+    display: inline-block;
+    
+}
+.phan12{
+    display: inline-block;
+}
+.phan13{
+    display: inline-block;
+}
+.phan1>img{
+    border-radius: 10px;
+}
+.phan11>p{
+    size: 50%;
+}
+.phan21{
+padding-left: 15%;
+}
+.phan31{
+    padding-right: 15%;
+}
+.phan33{
+    padding-left: 15%;
+}
+footer>img{
+    size: 100%;
+}
+
