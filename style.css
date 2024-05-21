@@ -27,7 +27,6 @@ header .social-icons a>img {
     background-color: gray;
     border-radius: 50px;
 }
-
 main {
     padding: 20px;
 }
@@ -45,6 +44,7 @@ main {
     width: 100%;
     max-height: 400px;
     object-fit: cover;
+    border-radius: 10px;
 }
 
 .features {
@@ -60,6 +60,7 @@ main {
 
 .features .feature img {
     max-width: 100px;
+    border-radius:10px;
 }
 
 .simple-beautiful {
@@ -71,6 +72,7 @@ main {
 .simple-beautiful img {
     width: 50%;
     margin-right: 20px;
+    border-radius:10px;
 }
 
 .right-now {
@@ -82,6 +84,7 @@ main {
 .right-now img {
     width: 50%;
     margin-left: 20px;
+    border-radius:10px;
 }
 
 .right-now .btn {
@@ -100,7 +103,7 @@ footer {
 }
 
 footer .twitter {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     background: #f1f1f1;
 }
 
